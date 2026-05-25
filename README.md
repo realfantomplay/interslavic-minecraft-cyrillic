@@ -3,4 +3,4 @@ Since 1.16, Minecraft has had a built-in Interslavic translation, but it only su
 
 The transliteration was made using the Interslavic Transliterator from interslavic.fun and then corrected by me.
 
-Interslavic Transliterator - https://interslavic.fun/ru/resources/applets/transliterator/
+Interslavic Transliterator - https://interslavic.fun/resources/applets/transliterator/
