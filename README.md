@@ -21,4 +21,6 @@ Interslavic Transliterator - https://interslavic.fun/resources/applets/translite
 
 <img width="850" height="477" alt="third" src="https://github.com/user-attachments/assets/ec857a7e-3501-4288-856f-4e285af2b6df" />
 
+# Distribution / Дистрибуција
+
 This project is distributed under the [CC BY 4.0](https://creativecommons.org) license.
