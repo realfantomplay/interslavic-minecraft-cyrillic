@@ -7,13 +7,21 @@ Interslavic Transliterator - https://interslavic.fun/resources/applets/translite
 
 # Меджусловјанска кирилична транслитерација длја Minecraft
 
-С версије Minecraft 1.16 имал интегрованы меджусловјанскы прєвод, але он был једино на латиници. Тој пакет ресурсов был створјены, да бы поправити то с помочју доданја транслитерације на кирилицу.
+С версије 1.16 Minecraft имал интегрованы меджусловјанскы прєвод, але он был једино на латиници. Тој пакет ресурсов был створјены, да бы поправити то с помочју доданја транслитерације на кирилицу.
 
-Транслитерација была створјена с помочју меджусловјанского транслитератора с сајта interslavic.fun и был поправјаны мноју.
+Дана автоматична транслитерација была створјена с помочју меджусловјанского транслитератора с сајта interslavic.fun и была поправјана мноју.
 
 Меджусловјанскы транслитератор - https://interslavic.fun/resources/applets/transliterator/
 
-# Screenshots / Снимкы
+# Medžuslovjanska kirilična transliteracija dlja Minecraft
+
+S versije 1.16 Minecraft imal integrovany medžuslovjansky prěvod, ale on byl jedino na latinici. Toj paket resursov byl stvorjeny, da by popraviti to s pomočju dodanja transliteracije na kirilicu.
+
+Dana avtomatična transliteracija byla stvorjena s pomočju medžuslovjanskogo transliteratora s sajta interslavic.fun i byla popravjana mnoju.
+
+Medžuslovjansky transliterator - https://interslavic.fun/resources/applets/transliterator/
+
+# Screenshots / Снимкы / Snimky
 
 <img width="851" height="477" alt="first" src="https://github.com/user-attachments/assets/452cdada-4fca-444e-a64d-0962b9ec8d89" />
 
@@ -21,6 +29,6 @@ Interslavic Transliterator - https://interslavic.fun/resources/applets/translite
 
 <img width="850" height="477" alt="third" src="https://github.com/user-attachments/assets/ec857a7e-3501-4288-856f-4e285af2b6df" />
 
-# Distribution / Дистрибуција
+# Distribution / Дистрибуција / Distribucija
 
 This project is distributed under the [CC BY 4.0](https://creativecommons.org) license.
