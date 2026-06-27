@@ -5,7 +5,7 @@ This automatic transliteration was made using the Interslavic Transliterator fro
 
 Interslavic Transliterator - https://interslavic.fun/resources/applets/transliterator/
 
-# Меджусловјанска кирилична транслитерација длја Minecraft
+# Меджусловјанска кирилична транслитерација дља Minecraft
 
 С версије 1.16 Minecraft имал интегрованы меджусловјанскы прєвод, але он был једино на латиници. Тој пакет ресурсов был створјены, да бы поправити то с помочју доданја транслитерације на кирилицу.
 
