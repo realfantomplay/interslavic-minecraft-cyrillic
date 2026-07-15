@@ -29,6 +29,10 @@ Medžuslovjansky transliterator - https://interslavic.fun/resources/applets/tran
 
 <img width="850" height="477" alt="third" src="https://github.com/user-attachments/assets/ec857a7e-3501-4288-856f-4e285af2b6df" />
 
+# Other Good Projects / Друге какостне пројекты / Druge kakostny projekty
+
+szczekotanje - [Прєвод BTA! на меджусловјанскы језык / Prěvod BTA! nа medžuslovjаnsky jezyk](https://github.com/szczekotanje/Interslavic-Translation-For-BTA-)
+
 # Distribution / Дистрибуција / Distribucija
 
 This project is distributed under the [CC BY 4.0](https://creativecommons.org) license.
