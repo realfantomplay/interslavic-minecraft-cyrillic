@@ -31,7 +31,9 @@ Medžuslovjansky transliterator - https://interslavic.fun/resources/applets/tran
 
 # Other good projects / Друге какостне пројекты / Druge kakostne projekty
 
-szczekotanje - [Прєвод BTA! на меджусловјанскы језык / Prěvod BTA! nа medžuslovjаnsky jezyk](https://github.com/szczekotanje/Interslavic-Translation-For-BTA-)
+shchekotati - [Прєвод BTA! на меджусловјанскы језык / Prěvod BTA! nа medžuslovjаnsky jezyk](https://github.com/shchekotati/Interslavic-Translation-For-BTA-)
+
+shchekotati & me - [Меджусловјанскы прєвод дља Minecraft Beta 1.7.3 / Medžuslovjansky prěvod dlja Minecraft Beta 1.7.3](https://github.com/shchekotati/Interslavic-Translation-For-Minecraft-Beta-1.7.3)
 
 # Distribution / Дистрибуција / Distribucija
 
